@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Nhat Long. From idea to working product." width="100%">
+  <img src="assets/nhat-long-banner.svg" alt="Nhat Long. From idea to working product." width="100%">
 </p>
 
 <p align="center">
